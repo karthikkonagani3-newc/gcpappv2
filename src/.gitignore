@@ -3,4 +3,4 @@ dist
 data.db
 .env
 .env.*
-key.jsong
+key.json
