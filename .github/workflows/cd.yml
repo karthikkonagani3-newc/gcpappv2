@@ -1,4 +1,4 @@
-#trigger redeploy
+#trigger redeploy on push to main branch
 
 name: CD
 
